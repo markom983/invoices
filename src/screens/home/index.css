@@ -1,0 +1,7 @@
+.main-div {
+    display: flex;
+    justify-content: center;
+    color: royalblue;
+    font-size: 18px;
+    font-weight: 400;
+}
